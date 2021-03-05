@@ -6,5 +6,5 @@
 
 2) Mohu vytvořit aplikaci pro iPad? 
 
-3) Chci použít jazyk Swift a vytvořit aplikaci pro macOS, případně pro iPad pokud možno
+3) Chci použít jazyk Swift a vytvořit aplikaci pro macOS, případně pro iPad pokud možno \n
  	Během prvního týdne rozhodnu zda použiji databázi, či XML
